@@ -1,0 +1,1148 @@
+﻿Log file open, 03/22/22 19:17:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Quiz3Folder
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.293188
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.22-23.17.53:303][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.22-23.17.53:303][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.22-23.17.53:303][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Engine.ini]
+[2022.03.22-23.17.53:303][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.22-23.17.53:303][  0]LogConfig: Setting CVar [[r.VirtualTextures:1]]
+[2022.03.22-23.17.53:303][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Engine.ini]
+[2022.03.22-23.17.53:303][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Engine.ini]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Engine.ini]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.22-23.17.53:304][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.22-23.17.53:305][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.22-23.17.53:305][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.22-23.17.53:305][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Engine.ini]
+[2022.03.22-23.17.53:305][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Engine.ini]
+[2022.03.22-23.17.53:327][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-23.17.53:327][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.22-23.17.53:327][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.22-23.17.53:327][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-23.17.53:327][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.22-23.17.53:327][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-23.17.53:327][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.22-23.17.53:327][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.22-23.17.53:327][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.22-23.17.53:327][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.22-23.17.53:327][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.22-23.17.53:327][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.22-23.17.53:328][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.22-23.17.53:328][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.22-23.17.53:328][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.22-23.17.53:328][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.22-23.17.53:328][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.22-23.17.53:328][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.22-23.17.53:328][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.22-23.17.53:328][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.22-23.17.53:328][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.22-23.17.53:328][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.22-23.17.53:328][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.22-23.17.53:328][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.22-23.17.53:328][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-23.17.53:328][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.22-23.17.53:328][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.22-23.17.53:328][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.22-23.17.53:329][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.22-23.17.53:330][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.22-23.17.53:331][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.22-23.17.53:331][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.22-23.17.53:331][  0]LogHAL: Display: Platform has ~ 8 GB [8509480960 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.22-23.17.53:331][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.22-23.17.53:331][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.22-23.17.53:331][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.22-23.17.53:332][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.22-23.17.53:333][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Scalability.ini]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.22-23.17.53:334][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.22-23.17.53:336][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.22-23.17.53:336][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.22-23.17.53:336][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.22-23.17.53:337][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Engine.ini]
+[2022.03.22-23.17.53:337][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Saved/Config/Windows/Editor.ini]
+[2022.03.22-23.17.53:337][  0]LogInit: Computer: SHAKEEM-S-LAPTO
+[2022.03.22-23.17.53:337][  0]LogInit: User: oxthe
+[2022.03.22-23.17.53:337][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.03.22-23.17.53:337][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.22-23.17.53:337][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2022.03.22-23.17.53:337][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.22-23.17.53:337][  0]LogMemory: Process Physical Memory: 142.77 MB used, 142.77 MB peak
+[2022.03.22-23.17.53:337][  0]LogMemory: Process Virtual Memory: 112.48 MB used, 112.48 MB peak
+[2022.03.22-23.17.53:337][  0]LogMemory: Physical Memory: 6425.44 MB used,  1689.84 MB free, 8115.27 MB total
+[2022.03.22-23.17.53:337][  0]LogMemory: Virtual Memory: 134209152.00 MB used,  8577.43 MB free, 134217728.00 MB total
+[2022.03.22-23.17.53:353][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.22-23.17.53:467][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.22-23.17.53:469][  0]LogInit: Using OS detected language (en-US).
+[2022.03.22-23.17.53:469][  0]LogInit: Using OS detected locale (en-US).
+[2022.03.22-23.17.53:476][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.22-23.17.54:098][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.22-23.17.54:120][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.22-23.17.54:149][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.22-23.17.54:149][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.22-23.17.54:474][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.03.22-23.17.54:541][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.22-23.17.54:541][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.22-23.17.54:541][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.22-23.17.54:541][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.22-23.17.54:716][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2022.03.22-23.17.54:716][  0]LogD3D11RHI:       2010/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.03.22-23.17.54:730][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2022.03.22-23.17.54:730][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.03.22-23.17.54:737][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.22-23.17.54:737][  0]LogD3D11RHI:       0/0/4057 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.22-23.17.54:737][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.03.22-23.17.54:737][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 960M
+[2022.03.22-23.17.54:737][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.22-23.17.54:737][  0]LogD3D11RHI:     DeviceId    : 139b
+[2022.03.22-23.17.54:737][  0]LogD3D11RHI:     SubSysId    : 9261025
+[2022.03.22-23.17.54:737][  0]LogD3D11RHI:     Revision    : 00a2
+[2022.03.22-23.17.54:737][  0]LogD3D11RHI:     DedicatedVideoMemory : 2107703296 bytes
+[2022.03.22-23.17.54:737][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.22-23.17.54:737][  0]LogD3D11RHI:     SharedSystemMemory : 4254740480 bytes
+[2022.03.22-23.17.54:737][  0]LogD3D11RHI:     AdapterLuid : 0 42301
+[2022.03.22-23.17.54:749][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.22-23.17.54:749][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2022.03.22-23.17.54:749][  0]LogWindows: EnumDisplayDevices:
+[2022.03.22-23.17.54:749][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2022.03.22-23.17.54:750][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2022.03.22-23.17.54:750][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2022.03.22-23.17.54:751][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.03.22-23.17.54:751][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2022.03.22-23.17.54:751][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.03.22-23.17.54:751][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.03.22-23.17.54:751][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2022.03.22-23.17.54:751][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.03.22-23.17.54:751][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 960M
+[2022.03.22-23.17.54:751][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.22-23.17.54:751][  0]LogD3D11RHI:     DeviceId    : 139b
+[2022.03.22-23.17.54:751][  0]LogD3D11RHI:     SubSysId    : 9261025
+[2022.03.22-23.17.54:751][  0]LogD3D11RHI:     Revision    : 00a2
+[2022.03.22-23.17.54:751][  0]LogD3D11RHI:     DedicatedVideoMemory : 2107703296 bytes
+[2022.03.22-23.17.54:751][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.22-23.17.54:751][  0]LogD3D11RHI:     SharedSystemMemory : 4254740480 bytes
+[2022.03.22-23.17.54:751][  0]LogD3D11RHI:     AdapterLuid : 0 42301
+[2022.03.22-23.17.54:875][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.22-23.17.54:875][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.22-23.17.54:964][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.22-23.17.55:073][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.22-23.17.55:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.22-23.17.55:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.22-23.17.55:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.22-23.17.55:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.22-23.17.55:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.22-23.17.55:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.22-23.17.55:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.22-23.17.55:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.22-23.17.55:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.22-23.17.55:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.22-23.17.55:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.22-23.17.55:897][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.22-23.17.55:897][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.22-23.17.55:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.22-23.17.55:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.22-23.17.55:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.22-23.17.55:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.22-23.17.55:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.22-23.17.55:973][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.22-23.17.55:985][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.22-23.17.56:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.22-23.17.56:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.22-23.17.56:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.22-23.17.56:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.22-23.17.56:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.22-23.17.56:079][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.22-23.17.56:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.22-23.17.56:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.22-23.17.56:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.22-23.17.56:136][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.22-23.17.56:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.22-23.17.56:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.22-23.17.56:157][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.22-23.17.56:172][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.22-23.17.56:229][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.03.22-23.17.56:284][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.22-23.17.56:284][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/Intermediate/Shaders/WorkingDirectory/13660/).
+[2022.03.22-23.17.56:285][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/oxthe/AppData/Local/Temp/UnrealShaderWorkingDir/8FBE87474C5A20903504308FC149450C/'.
+[2022.03.22-23.17.56:285][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.22-23.17.56:285][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.22-23.17.56:285][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.22-23.17.57:595][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.22-23.17.57:737][  0]LogDerivedDataCache: Loaded boot cache 0.14s 94MB C:/Users/oxthe/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.22-23.17.57:737][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/oxthe/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.03.22-23.17.57:737][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.22-23.17.57:737][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.22-23.17.57:737][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz3/Quiz3Folder/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.22-23.17.57:737][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.22-23.17.57:765][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.22-23.17.57:766][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.22-23.17.57:766][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.22-23.17.57:789][  0]LogDerivedDataCache: Speed tests for C:/Users/oxthe/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.03.22-23.17.57:789][  0]LogDerivedDataCache: Display: Performance to C:/Users/oxthe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.09ms. RandomReadSpeed=234.91MBs, RandomWriteSpeed=53.72MBs. Assigned SpeedClass 'Local'
+[2022.03.22-23.17.57:790][  0]LogDerivedDataCache: Using Local data cache path C:/Users/oxthe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.22-23.17.57:790][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.22-23.17.57:790][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.22-23.18.01:039][  0]LogShaderCompilers: Display: Submitted 2637 shader compile jobs with 'High' priority
+[2022.03.22-23.18.01:039][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.22-23.18.01:040][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.22-23.18.01:088][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2637
+[2022.03.22-23.18.01:088][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2627
+[2022.03.22-23.18.01:088][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2617
+[2022.03.22-23.18.01:088][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2607
+[2022.03.22-23.18.01:088][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2597
+[2022.03.22-23.18.01:088][  0]LogShaderCompilers: Display: Started 50 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.01:088][  0]LogAssetRegistry: FAssetRegistry took 0.0052 seconds to start up
+[2022.03.22-23.18.01:618][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.22-23.18.01:618][  0]LogInit: Active device profile: [000001A470B52B00][000001A46E0AA6C0 49] Windows
+[2022.03.22-23.18.01:618][  0]LogInit: Profiles: [000001A470B52B00][000001A46E0AA6C0 49] Windows, [000001A470B11700][000001A46B6AC840 49] WindowsNoEditor, [000001A470B51700][000001A4718469C0 49] WindowsServer, [000001A470B12200][000001A47184AB40 49] WindowsClient, [000001A470B52100][000001A46E01ACC0 49] IOS, [000001A470B13D00][000001A46E01EE40 49] iPadAir, [000001A470B52900][000001A46E022FC0 49] iPadAir2, [000001A470A9AB00][000001A4718BB280 49] IPadPro, [000001A470A9AC00][000001A4718B72C0 49] iPadAir3, [000001A470B51900][000001A4718C3440 49] iPadAir4, [000001A470A9B400][000001A4718C75C0 49] iPadMini2, [000001A470B51C00][000001A4718CB740 49] iPadMini3, [000001A470A99200][000001A46F41F8C0 49] iPadMini4, [000001A470B50B00][000001A46F423A40 49] iPadMini5, [000001A470B3A400][000001A46F42A180 49] iPhone6, [000001A470B3A500][000001A46F4261C0 49] iPodTouch6, [000001A470A99F00][000001A46AB62480 49] iPhone7, [000001A470A9A000][000001A46AB5E4C0 49] iPodTouch7, [000001A470B3AC00][000001A46B6A8600 49] iPhone5S, [000001A470A98A00][000001A46AB82740 49] iPhone6Plus, [000001A470B39200][000001A46D742880 49] iPhone6S, [000001A470A9BD00][000001A46D74A9C0 49] iPhone6SPlus, [000001A470B3A600][000001A46F3C4B40 49] iPhone7Plus, [000001A470A9AD00][000001A46F3C8CC0 49] iPhoneSE, [000001A470B3BF00][000001A46F40AE40 49] iPhone8, [000001A470A9A400][000001A46F40EFC0 49] iPhone8Plus, [000001A470B3AB00][000001A46F461140 49] iPhoneX, [000001A470A9A500][000001A46F4692C0 49] iPhoneXS, [000001A470B3BC00][000001A46F46D440 49] iPhoneXSMax, [000001A470A98B00][000001A46F4715C0 49] iPhoneXR, [000001A470B39500][000001A46B689740 49] iPhone11, [000001A470A9A100][000001A46B68D8C0 49] iPhone11Pro, [000001A470B3AA00][000001A46B691A40 49] iPhone11ProMax, [000001A470A98F00][000001A46B6A1BC0 49] iPhoneSE2, [000001A470B3BA00][000001A46B6A41C0 49] iPhone12Mini, [000001A470A9B300][000001A4715AA340 49] iPhone12, [000001A470B38800][000001A46F4644C0 49] iPhone12Pro, [000001A470A99D00][000001A46F3CC640 49] iPhone12ProMax, [000001A470B3B400][000001A46D74E780 49] iPadPro105, [000001A470A98400][000001A46D7468C0 49] iPadPro129, [000001A470B39C00][000001A46F438A00 49] iPadPro97, [000001A470A99900][000001A46F43CB40 49] iPadPro2_129, [000001A470B39300][000001A46F444CC0 49] iPad5, [000001A470A99700][000001A46F448E40 49] iPad6, [000001A470B39A00][000001A46F44CFC0 49] iPad7, [000001A470A9B800][000001A46F451140 49] iPad8, [000001A470B39F00][000001A46F4552C0 49] iPadPro11, [000001A470A9A200][000001A46F459440 49] iPadPro2_11, [000001A470B38900][000001A46F45D5C0 49] iPadPro3_129, [000001A470BB9200][000001A46F475740 49] iPadPro4_129, [000001A470B13700][000001A46F4798C0 49] AppleTV, [000001A470BBA000][000001A46F47DA40 49] AppleTV4K, [000001A470B12100][000001A46F481BC0 49] TVOS, [000001A470BB9300][000001A46F4841C0 49] Mac, [000001A470B10600][000001A46F488340 49] MacClient, [000001A470BB9600][000001A46F48C4C0 49] MacNoEditor, [000001A470B11300][000001A46F490640 49] MacServer, [000001A470BB8D00][000001A46F4947C0 49] Linux, [000001A470B10900][000001A46F498940 49] LinuxAArch64, [000001A470BB9000][000001A46F440A80 49] LinuxNoEditor, [000001A470B12000][000001A46F49CBC0 49] LinuxAArch64NoEditor, [000001A470BB8600][000001A46F4A0D00 49] LinuxClient, [000001A470B13100][000001A46AB02E80 49] LinuxAArch64Client, [000001A470B3A800][000001A46AB07000 49] LinuxServer, [000001A470A98100][000001A46AB0B180 49] LinuxAArch64Server, [000001A470B3BD00][000001A46AB0F300 49] Android, [000001A470A9AA00][000001A46AB13480 49] Android_Low, [000001A470B39100][000001A46AB17600 49] Android_Mid, [000001A470A9B700][000001A46AB1B780 49] Android_High, [000001A470B38600][000001A46AB1F900 49] Android_Default, [000001A470A9BE00][000001A46AB23A80 49] Android_Adreno4xx, [000001A470B38A00][000001A46AB27C00 49] Android_Adreno5xx_Low, [000001A470A9B100][000001A46AB2A200 49] Android_Adreno5xx, [000001A470B38C00][000001A46AB2E380 49] Android_Adreno6xx, [000001A470A99A00][000001A46AB32500 49] Android_Adreno6xx_Vulkan, [000001A470B38F00][000001A46AB36680 49] Android_Mali_T6xx, [000001A470A99500][000001A46B5B2800 49] Android_Mali_T7xx, [000001A470B3BB00][000001A46B5B6980 49] Android_Mali_T8xx, [000001A470A98200][000001A46B5BAB00 49] Android_Mali_G71, [000001A470B39B00][000001A46AAFEC40 49] Android_Mali_G72, [000001A470A9BB00][000001A46B5BED80 49] Android_Mali_G72_Vulkan, [000001A470B3AE00][000001A46B5C2EC0 49] Android_Mali_G76, [000001A470A9A300][000001A46B5CB040 49] Android_Mali_G76_Vulkan, [000001A470B39000][000001A46B5CF1C0 49] Android_Mali_G77, [000001A470BB8900][000001A46B5D3340 49] Android_Mali_G77_Vulkan, [000001A470B39900][000001A46B5D74C0 49] Android_Mali_G78, [000001A470BB8F00][000001A46B5DB640 49] Android_Mali_G78_Vulkan, [000001A470B3A000][000001A46B5DF7C0 49] Android_Mali_G710, [000001A470BB9100][000001A46B5E3940 49] Android_Mali_G710_Vulkan, [000001A470B3B000][000001A46B5E7AC0 49] Android_Vulkan_SM5, [000001A470A98E00][000001A46B5EA0C0 49] Android_PowerVR_G6xxx, [000001A470B38500][000001A46B5EE240 49] Android_PowerVR_GT7xxx, [000001A470A99000][000001A46B5F23C0 49] Android_PowerVR_GE8xxx, [000001A470B3B300][000001A46B5F6540 49] Android_PowerVR_GM9xxx, [000001A470A99E00][000001A46B5FA6C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001A470B38D00][000001A46B5FE840 49] Android_TegraK1, [000001A470A98900][000001A46B6029C0 49] Android_Unknown_Vulkan, [000001A470B3B600][000001A46B606B40 49] Lumin, [000001A470A99B00][000001A46B60ACC0 49] Lumin_Desktop, [000001A470B3B500][000001A46B5C6E00 49] HoloLens, 
+[2022.03.22-23.18.01:810][  0]LogMaterial: Display: Missing cached shadermap for WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0D428096829D9B569A28D0572F87FAC5C043B3E7), compiling. Is special engine material.
+[2022.03.22-23.18.05:245][  0]LogShaderCompilers: Display: Submitted 1300 shader compile jobs with 'High' priority
+[2022.03.22-23.18.05:807][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3887
+[2022.03.22-23.18.05:807][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.05:807][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3877
+[2022.03.22-23.18.05:807][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3867
+[2022.03.22-23.18.05:807][  0]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.06:368][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3857
+[2022.03.22-23.18.06:368][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.10:851][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3847
+[2022.03.22-23.18.10:851][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.11:411][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3837
+[2022.03.22-23.18.11:411][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.11:972][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3827
+[2022.03.22-23.18.11:972][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.12:533][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3817
+[2022.03.22-23.18.12:533][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.13:093][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3807
+[2022.03.22-23.18.13:093][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.14:775][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3797
+[2022.03.22-23.18.14:775][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.16:457][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3787
+[2022.03.22-23.18.16:457][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.17:018][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3777
+[2022.03.22-23.18.17:018][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.17:579][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3767
+[2022.03.22-23.18.17:579][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.18:699][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3757
+[2022.03.22-23.18.18:699][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.20:378][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3747
+[2022.03.22-23.18.20:378][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.20:378][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3737
+[2022.03.22-23.18.20:378][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.22:052][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3727
+[2022.03.22-23.18.22:052][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.22:052][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3717
+[2022.03.22-23.18.22:052][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.23:734][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3707
+[2022.03.22-23.18.23:734][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.23:734][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3697
+[2022.03.22-23.18.23:734][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.25:411][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3687
+[2022.03.22-23.18.25:411][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.26:532][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3677
+[2022.03.22-23.18.26:532][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.29:893][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3667
+[2022.03.22-23.18.29:893][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.31:014][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3657
+[2022.03.22-23.18.31:014][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.31:575][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3647
+[2022.03.22-23.18.31:575][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.33:255][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3637
+[2022.03.22-23.18.33:255][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.33:817][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3627
+[2022.03.22-23.18.33:817][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.35:499][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3617
+[2022.03.22-23.18.35:499][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.36:059][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3607
+[2022.03.22-23.18.36:059][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.37:738][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3597
+[2022.03.22-23.18.37:738][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.37:738][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3587
+[2022.03.22-23.18.37:738][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.39:419][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3577
+[2022.03.22-23.18.39:419][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.42:777][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3567
+[2022.03.22-23.18.42:777][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.43:336][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3557
+[2022.03.22-23.18.43:336][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.43:336][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3547
+[2022.03.22-23.18.43:336][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.45:578][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3537
+[2022.03.22-23.18.45:578][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.47:257][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3527
+[2022.03.22-23.18.47:257][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.47:817][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3517
+[2022.03.22-23.18.47:817][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.50:059][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3507
+[2022.03.22-23.18.50:059][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.50:059][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3497
+[2022.03.22-23.18.50:059][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.51:180][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3487
+[2022.03.22-23.18.51:180][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.52:301][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3477
+[2022.03.22-23.18.52:301][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.53:979][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3467
+[2022.03.22-23.18.53:979][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.54:540][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3457
+[2022.03.22-23.18.54:540][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.55:661][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3447
+[2022.03.22-23.18.55:661][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.57:342][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3437
+[2022.03.22-23.18.57:342][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.57:342][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3427
+[2022.03.22-23.18.57:342][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.18.59:024][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3417
+[2022.03.22-23.18.59:024][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.00:145][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3407
+[2022.03.22-23.19.00:145][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.01:266][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3397
+[2022.03.22-23.19.01:266][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.01:828][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3387
+[2022.03.22-23.19.01:828][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.02:988][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3377
+[2022.03.22-23.19.02:988][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.03:549][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3367
+[2022.03.22-23.19.03:549][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.05:230][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3357
+[2022.03.22-23.19.05:230][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.05:230][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3347
+[2022.03.22-23.19.05:230][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.06:910][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3337
+[2022.03.22-23.19.06:910][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.10:268][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3327
+[2022.03.22-23.19.10:268][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.10:829][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3317
+[2022.03.22-23.19.10:829][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.10:829][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3307
+[2022.03.22-23.19.10:829][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.11:950][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3297
+[2022.03.22-23.19.11:950][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.14:192][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3287
+[2022.03.22-23.19.14:192][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.15:869][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3277
+[2022.03.22-23.19.15:869][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.15:869][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3267
+[2022.03.22-23.19.15:869][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.16:429][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3257
+[2022.03.22-23.19.16:429][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.17:549][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3247
+[2022.03.22-23.19.17:549][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.18:671][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3237
+[2022.03.22-23.19.18:671][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.20:910][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3227
+[2022.03.22-23.19.20:910][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.21:471][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3217
+[2022.03.22-23.19.21:471][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.21:471][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3207
+[2022.03.22-23.19.21:471][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.22:031][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3197
+[2022.03.22-23.19.22:031][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.24:271][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3187
+[2022.03.22-23.19.24:271][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.24:271][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3177
+[2022.03.22-23.19.24:271][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.26:512][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3167
+[2022.03.22-23.19.26:512][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.27:633][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3157
+[2022.03.22-23.19.27:633][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.29:315][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3147
+[2022.03.22-23.19.29:315][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.29:876][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3137
+[2022.03.22-23.19.29:876][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.30:436][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3127
+[2022.03.22-23.19.30:436][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.33:240][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3117
+[2022.03.22-23.19.33:240][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.33:800][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3107
+[2022.03.22-23.19.33:800][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.34:361][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3097
+[2022.03.22-23.19.34:361][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.34:924][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3087
+[2022.03.22-23.19.34:924][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.34:924][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3077
+[2022.03.22-23.19.34:924][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.38:286][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3067
+[2022.03.22-23.19.38:286][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.38:286][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3057
+[2022.03.22-23.19.38:286][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.38:286][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3047
+[2022.03.22-23.19.38:286][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.39:407][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3037
+[2022.03.22-23.19.39:407][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.41:650][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3027
+[2022.03.22-23.19.41:650][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.43:332][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3017
+[2022.03.22-23.19.43:332][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.43:891][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3007
+[2022.03.22-23.19.43:891][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.44:450][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2997
+[2022.03.22-23.19.44:450][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.46:129][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2987
+[2022.03.22-23.19.46:129][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.46:687][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2977
+[2022.03.22-23.19.46:687][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.47:808][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2967
+[2022.03.22-23.19.47:808][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.47:808][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2957
+[2022.03.22-23.19.47:808][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.48:369][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2947
+[2022.03.22-23.19.48:369][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.50:612][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2937
+[2022.03.22-23.19.50:612][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.52:288][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2927
+[2022.03.22-23.19.52:288][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.52:288][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2917
+[2022.03.22-23.19.52:288][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.53:409][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2907
+[2022.03.22-23.19.53:409][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.54:529][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2897
+[2022.03.22-23.19.54:529][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.56:210][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2887
+[2022.03.22-23.19.56:210][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.57:893][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2877
+[2022.03.22-23.19.57:893][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.58:453][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2867
+[2022.03.22-23.19.58:453][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.19.59:598][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2857
+[2022.03.22-23.19.59:598][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.08:574][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2847
+[2022.03.22-23.20.08:574][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.11:939][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2837
+[2022.03.22-23.20.11:939][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.13:060][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2827
+[2022.03.22-23.20.13:060][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.13:621][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2817
+[2022.03.22-23.20.13:621][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.14:742][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2807
+[2022.03.22-23.20.14:742][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.14:742][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2797
+[2022.03.22-23.20.14:742][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.18:102][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2787
+[2022.03.22-23.20.18:102][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.18:661][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2777
+[2022.03.22-23.20.18:661][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.19:782][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2767
+[2022.03.22-23.20.19:782][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.20:903][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2757
+[2022.03.22-23.20.20:903][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.23:146][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2747
+[2022.03.22-23.20.23:146][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.24:267][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2737
+[2022.03.22-23.20.24:267][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.24:829][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2727
+[2022.03.22-23.20.24:829][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.29:870][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2717
+[2022.03.22-23.20.29:870][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.32:113][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2707
+[2022.03.22-23.20.32:113][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.34:916][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2697
+[2022.03.22-23.20.34:916][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.35:477][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2687
+[2022.03.22-23.20.35:477][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.36:598][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2677
+[2022.03.22-23.20.36:598][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.37:720][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2667
+[2022.03.22-23.20.37:720][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.39:396][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2657
+[2022.03.22-23.20.39:396][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.40:517][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2647
+[2022.03.22-23.20.40:517][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.41:637][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2637
+[2022.03.22-23.20.41:637][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.43:878][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2627
+[2022.03.22-23.20.43:878][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.46:676][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2617
+[2022.03.22-23.20.46:676][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.47:236][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2607
+[2022.03.22-23.20.47:236][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.47:798][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2597
+[2022.03.22-23.20.47:798][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.48:919][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2587
+[2022.03.22-23.20.48:919][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.50:037][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2577
+[2022.03.22-23.20.50:037][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2567
+[2022.03.22-23.20.50:037][  0]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.51:157][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2557
+[2022.03.22-23.20.51:157][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.51:157][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2547
+[2022.03.22-23.20.51:157][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.51:717][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2537
+[2022.03.22-23.20.51:717][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.52:278][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2527
+[2022.03.22-23.20.52:278][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.52:839][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2517
+[2022.03.22-23.20.52:839][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.52:839][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2507
+[2022.03.22-23.20.52:839][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.52:839][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2497
+[2022.03.22-23.20.52:839][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.54:118][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2487
+[2022.03.22-23.20.54:118][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.54:118][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2477
+[2022.03.22-23.20.54:118][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.54:118][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2467
+[2022.03.22-23.20.54:118][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.54:118][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2457
+[2022.03.22-23.20.54:118][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.54:118][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2447
+[2022.03.22-23.20.54:118][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.54:118][  0]LogMaterial: Display: Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A4C97720854C0D6CD5AC7F8FA6F1D0A8A0DCE199), compiling. 
+[2022.03.22-23.20.54:492][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2437
+[2022.03.22-23.20.54:492][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.54:492][  0]LogShaderCompilers: Display: Submitted 157 shader compile jobs with 'High' priority
+[2022.03.22-23.20.55:613][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2584
+[2022.03.22-23.20.55:613][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.58:414][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2574
+[2022.03.22-23.20.58:414][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.58:973][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2564
+[2022.03.22-23.20.58:973][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.20.58:973][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2554
+[2022.03.22-23.20.58:973][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.03:453][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2544
+[2022.03.22-23.21.03:453][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.06:256][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2534
+[2022.03.22-23.21.06:256][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.07:377][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2524
+[2022.03.22-23.21.07:377][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.09:061][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2514
+[2022.03.22-23.21.09:061][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.10:181][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2504
+[2022.03.22-23.21.10:181][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.13:543][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2494
+[2022.03.22-23.21.13:543][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.14:665][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2484
+[2022.03.22-23.21.14:665][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.14:665][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2474
+[2022.03.22-23.21.14:665][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.16:345][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2464
+[2022.03.22-23.21.16:345][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.20:266][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2454
+[2022.03.22-23.21.20:266][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.21:388][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2444
+[2022.03.22-23.21.21:388][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.23:072][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2434
+[2022.03.22-23.21.23:072][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.24:754][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2424
+[2022.03.22-23.21.24:754][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.25:314][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2414
+[2022.03.22-23.21.25:314][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.26:436][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2404
+[2022.03.22-23.21.26:436][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.29:800][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2394
+[2022.03.22-23.21.29:800][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.31:741][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2384
+[2022.03.22-23.21.31:741][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.31:741][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BC6CA42DA987FEFB3AFC29B60C74F3FC0CBA7C2E), compiling. 
+[2022.03.22-23.21.31:795][  0]LogShaderCompilers: Display: Submitted 33 shader compile jobs with 'High' priority
+[2022.03.22-23.21.32:917][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2407
+[2022.03.22-23.21.32:917][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.36:838][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2397
+[2022.03.22-23.21.36:838][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.37:399][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2387
+[2022.03.22-23.21.37:399][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.39:081][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2377
+[2022.03.22-23.21.39:081][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.40:201][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2367
+[2022.03.22-23.21.40:201][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.40:762][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2357
+[2022.03.22-23.21.40:762][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2347
+[2022.03.22-23.21.40:762][  0]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.43:565][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2337
+[2022.03.22-23.21.43:565][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.43:565][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2327
+[2022.03.22-23.21.43:565][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.47:489][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2317
+[2022.03.22-23.21.47:489][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.47:489][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2307
+[2022.03.22-23.21.47:489][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.48:914][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2297
+[2022.03.22-23.21.48:914][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.48:914][  0]LogMaterial: Display: Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 225780286804A80E2937AF75A4B12EF89D3A26F9), compiling. 
+[2022.03.22-23.21.48:964][  0]LogShaderCompilers: Display: Submitted 34 shader compile jobs with 'High' priority
+[2022.03.22-23.21.50:645][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2321
+[2022.03.22-23.21.50:645][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.51:206][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2311
+[2022.03.22-23.21.51:206][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.55:129][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2301
+[2022.03.22-23.21.55:129][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.56:250][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2291
+[2022.03.22-23.21.56:250][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.56:250][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2281
+[2022.03.22-23.21.56:250][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.56:807][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2271
+[2022.03.22-23.21.56:807][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.58:489][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2261
+[2022.03.22-23.21.58:489][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.58:773][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2251
+[2022.03.22-23.21.58:773][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.58:773][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2241
+[2022.03.22-23.21.58:773][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.21.58:773][  0]LogMaterial: Display: Missing cached shadermap for MatineeCam_mat in PCD3D_SM5, Default, SM5 (DDC key hash: C1F82F1D532144A134AAC8CDC925A9B2AFB2C137), compiling. 
+[2022.03.22-23.21.58:805][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.03.22-23.21.58:875][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.22-23.21.58:875][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.22-23.21.58:875][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.22-23.21.58:875][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.22-23.21.58:875][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.22-23.21.58:914][  0]LogNetVersion: Quiz3Folder 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 4228179914)
+[2022.03.22-23.21.58:994][  0]LogMaterial: Display: Missing cached shadermap for HelpActorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: ED8FF97D71238A09AD40B275FA8A79250114A598), compiling. 
+[2022.03.22-23.21.59:133][  0]LogShaderCompilers: Display: Submitted 78 shader compile jobs with 'Low' priority
+[2022.03.22-23.21.59:233][  0]LogMaterial: Display: Missing cached shadermap for M_ChromeBall in PCD3D_SM5, Default, SM5 (DDC key hash: 9E5E70ED610D46F7B6E235AF1A79B94E63C333D4), compiling. 
+[2022.03.22-23.21.59:301][  0]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2022.03.22-23.21.59:333][  0]LogMaterial: Display: Missing cached shadermap for DefaultTextMaterialOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: 376B9A143681A69102D3CDAC5072931A7595064A), compiling. 
+[2022.03.22-23.21.59:402][  0]LogShaderCompilers: Display: Submitted 38 shader compile jobs with 'Low' priority
+[2022.03.22-23.21.59:449][  0]LogMaterial: Display: Missing cached shadermap for m_SimpleVolumetricCloud in PCD3D_SM5, Default, SM5 (DDC key hash: 0B0FB5E5FC75F7523179EFED2ABDA0BDD6321982), compiling. 
+[2022.03.22-23.21.59:650][  0]LogShaderCompilers: Display: Submitted 58 shader compile jobs with 'Low' priority
+[2022.03.22-23.21.59:691][  0]LogMaterial: Display: Missing cached shadermap for BaseFlattenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2B11088475BF4849C422597290FDBED89705CADB), compiling. 
+[2022.03.22-23.21.59:799][  0]LogShaderCompilers: Display: Submitted 58 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.00:163][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2231
+[2022.03.22-23.22.00:163][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.22.00:163][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2221
+[2022.03.22-23.22.00:163][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.22.00:163][  0]LogMaterial: Display: Missing cached shadermap for Xray in PCD3D_SM5, Default, SM5 (DDC key hash: C7CAA36D4A6F52EE514950E49C9E0B9029CDD1FC), compiling. 
+[2022.03.22-23.22.00:191][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.00:194][  0]LogMaterial: Display: Missing cached shadermap for Main in PCD3D_SM5, Default, SM5 (DDC key hash: E6D7264CAC6121D8D9358155173E1C45C84C30E7), compiling. 
+[2022.03.22-23.22.00:216][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.00:228][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough in PCD3D_SM5, Default, SM5 (DDC key hash: 1FD8231988A120272133429F86399D9D84231E38), compiling. 
+[2022.03.22-23.22.00:250][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.00:253][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Translucent in PCD3D_SM5, Default, SM5 (DDC key hash: C6F5C815FCB0991668077850EB6C3E0E2D272225), compiling. 
+[2022.03.22-23.22.00:278][  0]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.00:286][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 0BF028D7D5101FDFD22D2E12174BD547C536A3A3), compiling. 
+[2022.03.22-23.22.00:308][  0]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.00:312][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: CBDA2B7A90A35B328A0B432B7FAFCC8D92A2BD33), compiling. 
+[2022.03.22-23.22.00:327][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.00:333][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: 5DEE827731EC2A7E12ED81469BA7DF61CE75D361), compiling. 
+[2022.03.22-23.22.00:379][  0]LogShaderCompilers: Display: Submitted 26 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.00:385][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Masked_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: B4F14C78187D87BB3EDED07F649BC8A4A273DAEC), compiling. 
+[2022.03.22-23.22.00:428][  0]LogShaderCompilers: Display: Submitted 26 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.00:473][  0]LogMaterial: Display: Missing cached shadermap for Widget3DCameraPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: 41E6C549D6F54CD5C5CFDC496C28915F1994D04F), compiling. 
+[2022.03.22-23.22.00:485][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.00:503][  0]LogMaterial: Display: Missing cached shadermap for TranslucentTransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BAF2004C6DA8A6331D25B990F7503A210FD97B25), compiling. 
+[2022.03.22-23.22.00:526][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.00:529][  0]LogMaterial: Display: Missing cached shadermap for TransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 971370F8ACD245EA574A82AF86EF5C53ED0D8849), compiling. 
+[2022.03.22-23.22.00:543][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.00:599][  0]LogMaterial: Display: Missing cached shadermap for CineMat in PCD3D_SM5, Default, SM5 (DDC key hash: 38FCD16C1C287BD16ECE3F34BFCF37DAC9943526), compiling. 
+[2022.03.22-23.22.00:661][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.00:698][  0]LogMaterial: Display: Missing cached shadermap for M_SimpleOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: C05FB3CB642ED2E3699089934FEA05CB131B1CA7), compiling. 
+[2022.03.22-23.22.00:733][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.00:751][  0]LogMaterial: Display: Missing cached shadermap for M_SimpleUnlitTranslucent in PCD3D_SM5, Default, SM5 (DDC key hash: A88F87EC5597D093287F7C13DEB61C9ECE536A93), compiling. 
+[2022.03.22-23.22.00:769][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.00:948][  0]LogMaterial: Display: Missing cached shadermap for SkySphereMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3A4CB0F2FD36028A474F70D7FA16CC65077BA06A), compiling. 
+[2022.03.22-23.22.00:962][  0]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.00:993][  0]LogMaterial: Display: Missing cached shadermap for FloorPlaneMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D6767C44E68A9EA36B1F1A6BEA88EE05A28277DE), compiling. 
+[2022.03.22-23.22.01:049][  0]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.01:051][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.22-23.22.01:199][  0]LogMaterial: Display: Missing cached shadermap for LandscapeGizmo_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: FCBB1C4DA4AFCA5BCE9968885C911C83C6A89556), compiling. 
+[2022.03.22-23.22.01:248][  0]LogShaderCompilers: Display: Submitted 26 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.01:260][  0]LogMaterial: Display: Missing cached shadermap for LandscapeGizmoHeight_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7A9E44B5E08C6F76179F5C3C4CC30213FB86E0DE), compiling. 
+[2022.03.22-23.22.01:360][  0]LogShaderCompilers: Display: Submitted 55 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.01:374][  0]LogMaterial: Display: Missing cached shadermap for SplineEditorMeshMat in PCD3D_SM5, Default, SM5 (DDC key hash: 8281B1DE72300FAE95964A7ABFE3F0EBD3A0A519), compiling. 
+[2022.03.22-23.22.01:413][  0]LogShaderCompilers: Display: Submitted 22 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.01:437][  0]LogMaterial: Display: Missing cached shadermap for PokeAHoleMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C1FCDE09E88BFBE85334C528DF1339B76F09C846), compiling. 
+[2022.03.22-23.22.01:457][  0]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.03.22-23.22.01:457][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.22-23.22.01:480][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.03.22-23.22.01:480][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.03.22-23.22.01:480][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.22-23.22.04:575][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2211
+[2022.03.22-23.22.04:575][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.22.14:107][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2201
+[2022.03.22-23.22.14:107][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.22.33:156][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2191
+[2022.03.22-23.22.33:156][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.22.34:838][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2181
+[2022.03.22-23.22.34:838][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.22.53:894][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2171
+[2022.03.22-23.22.53:894][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.22.56:138][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2161
+[2022.03.22-23.22.56:138][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.23.07:906][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2151
+[2022.03.22-23.23.07:906][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.23.35:977][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2141
+[2022.03.22-23.23.35:977][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.23.43:256][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2131
+[2022.03.22-23.23.43:256][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.23.49:418][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2121
+[2022.03.22-23.23.49:418][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.24.00:054][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2111
+[2022.03.22-23.24.00:054][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.24.04:529][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2101
+[2022.03.22-23.24.04:529][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.24.09:014][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2091
+[2022.03.22-23.24.09:014][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.24.10:695][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2081
+[2022.03.22-23.24.10:695][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.24.15:741][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2071
+[2022.03.22-23.24.15:741][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.24.23:580][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2061
+[2022.03.22-23.24.23:580][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.24.28:062][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2051
+[2022.03.22-23.24.28:062][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.24.37:589][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2041
+[2022.03.22-23.24.37:589][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.24.39:832][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2031
+[2022.03.22-23.24.39:832][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.24.41:514][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 2021
+[2022.03.22-23.24.41:514][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.24.57:198][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2011
+[2022.03.22-23.24.57:198][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.25.01:115][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2001
+[2022.03.22-23.25.01:115][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.25.06:159][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 1991
+[2022.03.22-23.25.06:159][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.25.08:962][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1981
+[2022.03.22-23.25.08:962][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.25.11:200][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1971
+[2022.03.22-23.25.11:200][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.25.17:360][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 1961
+[2022.03.22-23.25.17:360][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.25.19:603][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1951
+[2022.03.22-23.25.19:603][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.25.20:165][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1941
+[2022.03.22-23.25.20:165][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.25.24:089][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1931
+[2022.03.22-23.25.24:089][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.25.39:794][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1921
+[2022.03.22-23.25.39:794][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.25.41:475][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1911
+[2022.03.22-23.25.41:475][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.25.48:199][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 1901
+[2022.03.22-23.25.48:199][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.25.49:881][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 1891
+[2022.03.22-23.25.49:881][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.25.54:927][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1881
+[2022.03.22-23.25.54:927][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.26.01:095][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1871
+[2022.03.22-23.26.01:095][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.26.03:337][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 1861
+[2022.03.22-23.26.03:337][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.26.04:460][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1851
+[2022.03.22-23.26.04:460][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.26.06:142][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1841
+[2022.03.22-23.26.06:142][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.26.13:425][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1831
+[2022.03.22-23.26.13:425][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.26.35:279][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 1821
+[2022.03.22-23.26.35:279][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.26.36:401][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1811
+[2022.03.22-23.26.36:401][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.26.38:083][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1801
+[2022.03.22-23.26.38:083][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.03.22-23.27.07:791][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1791
+[2022.03.22-23.27.07:791][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
